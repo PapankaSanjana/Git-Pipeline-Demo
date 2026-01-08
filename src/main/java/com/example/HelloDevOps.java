@@ -8,3 +8,4 @@ public static String getMessage() {
 return "Hello from DevOps Training";
 }
 }
+// New feature added
